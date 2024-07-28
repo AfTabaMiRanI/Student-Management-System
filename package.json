@@ -1,0 +1,18 @@
+{
+  "name": "student-system-afi",
+  "version": "2.0.4",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mohammad AftaB Mirani",
+  "license": "ISC",
+  "dependencies": {
+    "@inquirer/prompts": "^5.3.2",
+    "chalk": "^5.3.0",
+    "student-system-afi": "^2.0.4"
+  }
+}
